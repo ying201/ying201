@@ -23,7 +23,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)t
 
 <!-- ![bilibili](https://stats.justsong.cn/api/bilibili/?id=你的用户id&theme=主题名称) -->
 <!-- ![leetcode](https://stats.justsong.cn/api/leetcode/?username=你的用户id&cn=true) -->
-<!-- ![csdn](https://stats.justsong.cn/api/csdn?id=weixin_43979371&theme=radical)
+<!-- ![csdn](https://stats.justsong.cn/api/csdn?id=用户id&theme=radical)
 ![github](https://stats.justsong.cn/api/github?username=wwryy&theme=radical) -->
 
 
