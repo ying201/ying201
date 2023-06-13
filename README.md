@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy)](https://github.com/wwryy/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy&layout=compact)](https://github.com/wwryy/github-readme-stats)
+
+![wwryy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwryy&show_icons=true&theme=tokyonight)
+
+
 <!--
 **wwryy/wwryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
