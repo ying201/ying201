@@ -1,12 +1,30 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)
+You are the ![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)th visitor！
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy)](https://github.com/wwryy/github-readme-stats) -->
+ <!-- 可以使用img标签使其右对齐 -->
+<!-- <img align='right' src="https://profile-counter.glitch.me/wwryy/count.svg" width="200"> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy&layout=compact)](https://github.com/wwryy/github-readme-stats)
+<!--状态展示：-->
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=wwryy&show_icons=true&theme=radical"/>
 
-![wwryy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwryy&show_icons=true&theme=tokyonight)
+<!--语言使用统计：-->
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy&theme=radical&layout=compact"  /> -->
+
+<!-- 显示最近一个月以来GitHub贡献的折线图 -->
+<!-- ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=wwryy&theme=radical) -->
+
+<!-- ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renzehua1998&theme=vue) -->
+
+<!-- 可以使用img标签使其右对齐 -->
+<!-- <img align='right' src="https://profile-counter.glitch.me/wwryy/count.svg" width="200"> -->
+
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" /> -->
+
+<!-- ![bilibili](https://stats.justsong.cn/api/bilibili/?id=你的用户id&theme=主题名称) -->
+<!-- ![leetcode](https://stats.justsong.cn/api/leetcode/?username=你的用户id&cn=true) -->
+<!-- ![csdn](https://stats.justsong.cn/api/csdn?id=weixin_43979371&theme=radical)
+![github](https://stats.justsong.cn/api/github?username=wwryy&theme=radical) -->
 
 
 <!--
