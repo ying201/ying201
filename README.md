@@ -6,7 +6,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)t
 <!-- <img align='right' src="https://profile-counter.glitch.me/wwryy/count.svg" width="200"> -->
 
 <!--状态展示：-->
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=wwryy&show_icons=true&theme=radical"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ying201&show_icons=true&theme=radical"/>
 
 <!--语言使用统计：-->
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy&theme=radical&layout=compact"  /> -->
