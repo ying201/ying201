@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)th visitor！
+You are the ![Visitor Count](https://profile-counter.glitch.me/ying201/count.svg)th visitor！
 
  <!-- 可以使用img标签使其右对齐 -->
-<!-- <img align='right' src="https://profile-counter.glitch.me/wwryy/count.svg" width="200"> -->
+<!-- <img align='right' src="https://profile-counter.glitch.me/ying201/count.svg" width="200"> -->
 
 <!--状态展示：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ying201&show_icons=true&theme=radical"/>
@@ -12,7 +12,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/wwryy/count.svg)t
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwryy&theme=radical&layout=compact"  /> -->
 
 <!-- 显示最近一个月以来GitHub贡献的折线图 -->
-<!-- ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=wwryy&theme=radical) -->
+<!-- ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=ying201&theme=radical) -->
 
 <!-- ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renzehua1998&theme=vue) -->
 
